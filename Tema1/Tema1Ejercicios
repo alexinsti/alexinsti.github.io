@@ -1,3 +1,9 @@
+<html>
+	<head>
+	<title>Ejercicios tema 1</title>
+	</head>
+	<body>
+	<pre>
 Lenguajes de programación
 
 ¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
@@ -103,3 +109,6 @@ Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desa
   Software funcionando sobre documentación extensiva 
   Colaboración con el cliente sobre negociación contractual 
   Respuesta ante el cambio sobre seguir un plan
+</pre>
+</body>
+</html>
